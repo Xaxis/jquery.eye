@@ -1,6 +1,6 @@
 # jQuery Eye
 
-Version 1.1.0
+Version 1.2.0
 
 ## Summary
 
@@ -105,14 +105,14 @@ See `example.html` in examples folder.
 
 ### Changelog
 
-#### Version 1.0.0
+#### Version 1.2.0
 
-* initial version
+* updated with build package via package.json
 
 #### Version 1.1.0
 
 * gave registered callbacks the ability to run once upon registration
 
-#### Version 1.2.0
+#### Version 1.0.0
 
-* updated with build package via package.json
+* initial version
