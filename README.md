@@ -6,10 +6,6 @@ Version 1.2.0
 
 jQuery.eye is a jQuery plugin for monitoring changes made to elements' DOM or CSS properties as well as monitoring changes of the returned results from jQuery methods ran on a given element. When a change is detected a callback function is fired. Additionally provided are methods for pausing a watch, starting a watch, and retrieving a watch status associated with an element.
 
-## Author
-
-Wil Neeley ( [@wilneeley](http://twitter.com/wilneeley) / [puppetlabs.com](http://www.puppetlabs.com) / [github.com](https://github.com/Xaxis) )
-
 ## Usage
 
 Include `jquery.eye.min.js` after jQuery in your header or elsewhere in your page.
